@@ -1,2 +1,2 @@
 # FizzBuzz in C++
-An imlpementation of FizzBuzz in C++.
+An implementation of FizzBuzz in C++.
